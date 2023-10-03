@@ -9,7 +9,7 @@
 
 <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png"
      alt="Discord Icon"
-     style="float: left; margin-right: 10px;" /> Discord: nex1301
+     style="float: left; margin-right: 3px;" /> Discord: nex1301
 <!--
 **NexOffline/NexOffline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

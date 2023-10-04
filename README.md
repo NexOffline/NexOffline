@@ -7,7 +7,6 @@
  ╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝░░░░░╚══════╝╚═╝╚═╝░░╚══╝╚══════╝
 
 
-- Discord: nex1301
 <!--
 **NexOffline/NexOffline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

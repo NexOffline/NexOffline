@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on | Jaded Roleplay
+- 🔭 I’m currently working on | [Ascendant RP](https://discord.gg/ascendantrp)
 - 🌱 I’m currently learning | HTML
 - 👯 I’m looking to collaborate on | HMU! I'm open to most things! 
-- 💬 Ask me about | QBCore
+- 💬 Ask me about | QBCore, Custom Frameworks!
 - 📫 How to reach me | Discord: nex1301

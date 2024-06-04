@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/c/NoobySloth"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.noobysloth.com/i/youtube.png"/></a>
+  <a href="https://www.youtube.com/channel/UCdLRJl6hRRMRTgID8zWCabQ"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.noobysloth.com/i/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/NexOffline"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.noobysloth.com/i/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

@@ -1,3 +1,26 @@
+<p>
+  
+Heya 👋, I am **Nex** I’ve been working with code for about 3–4 years now, starting off with small projects and gradually building my skills across both front-end and back-end development. Over time, I’ve grown comfortable working with modern frameworks, crafting clean user interfaces, and building functional, scalable systems. What started as curiosity turned into a passion, and now I enjoy turning ideas into reality through code—whether it’s experimenting with new technologies, solving tough problems, or collaborating on projects that push my skills further. ✨
+
+<div>
+<details>
+  <summary>😝 More about me</summary>
+
+- 🔭 I’m currently on a journey to build **some cool** things
+
+- 🌱 I’m currently learning **everything** 😭
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 Most of my work is private commisioned work, I'll publicly post things if they allow me! 
+
+- 💬 Ask me about **open source, FiveM development, and community management**
+
+- 📫 Reach me out at **nexoffline** on discord <3
+
+</details>
+  
+</p>
 
 ## 🔥 Github Stats
 

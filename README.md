@@ -11,13 +11,3 @@
     <a href="https://github.com/NexOffline/nex-atm"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NexOffline&repo=nex-atm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/mythic-framework/txAdminRecipe"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mythic-framework&repo=txAdminRecipe&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
-
-
-<p align="center">
-  <a href="https://github.com/NexOffline">
-    <img src="https://streak-stats.demolab.com/?user=NexOffline&theme=tokyonight" /></a><br>
-  <a href="https://github.com/NexOffline">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexOffline&show_icons=true&theme=tokyonight" /></a><Br>
-  <a href="https://github.com/NexOffline">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexOffline&theme=tokyonight&layout=compact" /></a>
-</p>

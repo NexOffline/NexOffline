@@ -12,7 +12,7 @@ Heya 👋, I am **Nex** I’ve been working with code for about 3–4 years now,
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 Most of my work is private commisioned work, I'll publicly post things if they allow me! 
+- 👨‍💻 Most of my work is **privatly commisioned**, I'll publicly post things if they allow me! 
 
 - 💬 Ask me about **open source, FiveM development, and community management**
 

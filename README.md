@@ -23,9 +23,6 @@ Heya 👋, I am **Nex** I’ve been working with code for about 3–4 years now,
 </p>
 
 ## 🔥 Github Stats
-
-<img align="right" width="38%" src="https://i.pinimg.com/736x/b3/e1/16/b3e11628033ea62ff4170081bd6e079a.jpg"/>
-
   <a href="https://github.com/NexOffline"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=NexOffline&theme=radical&title_color=ff3068?"></a>
 
 ## 📘 My Most Recent Projects

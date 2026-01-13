@@ -1,6 +1,6 @@
 <p>
   
-Heya 👋, I am **Nex** I’ve been working with code for about 3–4 years now, starting off with small projects and gradually building my skills across both front-end and back-end development. Over time, I’ve grown comfortable working with modern frameworks, crafting clean user interfaces, and building functional, scalable systems. What started as curiosity turned into a passion, and now I enjoy turning ideas into reality through code—whether it’s experimenting with new technologies, solving tough problems, or collaborating on projects that push my skills further. ✨
+⭐ code and stuff ✨
 
 <div>
 <details>

@@ -2,25 +2,8 @@
   
 ⭐ code and stuff ✨
 
-<div>
-<details>
-  <summary>😝 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **some cool** things
-
-- 🌱 I’m currently learning **everything** 😭
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 Most of my work is **privatly commisioned**, I'll publicly post things if they allow me! 
-
-- 💬 Ask me about **open source, FiveM development, and community management**
-
 - 📫 Reach me out at **nexoffline** on discord <3
 
-</details>
-  
-</p>
 
 ## 📘 My Most Recent Projects
 

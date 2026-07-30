@@ -14,7 +14,7 @@ mostly working on **FiveM**, web apps, and making UIs look less ugly.
 
 - 🚧 Building FiveM resources
 - 🎨 Designing modern interfaces
-- ☕ Learning something new every day
+- ⭐ Random side projects whenever inspiration hits
 
 ### tech
 
@@ -24,9 +24,7 @@ mostly working on **FiveM**, web apps, and making UIs look less ugly.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=NexOffline&show_icons=true&hide_border=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NexOffline&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Contribution Grid](https://ghchart.rshah.org/NexOffline)
 
 </div>
 

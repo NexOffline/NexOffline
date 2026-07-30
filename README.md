@@ -1,14 +1,35 @@
-<p>
-  
-⭐ code and stuff ✨
+<div align="center">
 
-- 📫 Reach me out at **nexoffline** on discord <3
+# hey, i'm nex 🐇
 
+full-stack developer who spends way too much time building stuff.
 
-## 📘 My Most Recent Projects
+mostly working on **FiveM**, web apps, and making UIs look less ugly.
 
-<p align="left">
-   <a href="https://github.com/NexOffline/bunnymanager"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NexOffline&repo=bunnymanager&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/NexOffline/nex-atm"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NexOffline&repo=nex-atm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/mythic-framework/txAdminRecipe"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mythic-framework&repo=txAdminRecipe&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
+</div>
+
+---
+
+### currently
+
+- 🚧 Building FiveM resources
+- 🎨 Designing modern interfaces
+- ☕ Learning something new every day
+
+### tech
+
+`Lua` • `JavaScript` • `TypeScript` • `Python` • `React` • `Node.js`
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=NexOffline&show_icons=true&hide_border=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NexOffline&layout=compact&hide_border=true&theme=tokyonight)
+
+</div>
+
+---
+
+> *"If it works, make it cleaner. If it's clean, make it faster."*

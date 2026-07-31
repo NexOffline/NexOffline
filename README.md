@@ -24,7 +24,9 @@ mostly working on **FiveM**, web apps, and making UIs look less ugly.
 
 <div align="center">
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/NexOffline)
+### currently listening to
+
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=compact&background_color=0d1117&border_radius=8&bar_color=00bfff&show_offline=true)](https://open.spotify.com/)
 
 </div>
 

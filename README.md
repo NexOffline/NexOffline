@@ -26,8 +26,7 @@ mostly working on **FiveM**, web apps, and making UIs look less ugly.
 
 ### currently listening to
 
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=compact&background_color=0d1117&border_radius=8&bar_color=00bfff&show_offline=true)](https://open.spotify.com/)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vmyfgdun1m6zxni5sp3c4d91j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ---

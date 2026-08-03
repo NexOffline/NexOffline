@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm nex 🐇
+# hey, i'm nex 💫
 
 full-stack developer who spends way too much time building stuff.
 
